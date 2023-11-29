@@ -1,4 +1,5 @@
  # Hello World #
+ ![Image of cute Github Yactocar](https://octodex.github.com/images/yaktocat.png)
  # This is H1 #
  ## This is H2 ##
  ### This is H3 ###
