@@ -7,3 +7,7 @@
  ##### This is H5 #####
 ###### This is H6 ######
 This is normal text
+ #### Insatall Numpy using pip by running below command in terminal ####
+```
+pip install numpy
+```
