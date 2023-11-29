@@ -11,3 +11,7 @@ This is normal text
 ```
 pip install numpy
 ```
+This is a Tast list
+- [x] Create Github Account
+- [x] Start Learning Journey
+- [ ] You become the pro Coder
